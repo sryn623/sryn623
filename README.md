@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me
 
 Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in AI/ML and 3D design. I’m enthusiastic about exploring artificial intelligence and pushing the boundaries of 3D creativity.
-
 - 🎓 Currently pursuing a degree in Computer Science
-- 🎮 Aspiring game developer focused on Godot Engine and GDScript
-- 🌱 Constantly learning and expanding my skillset in game development and programming
-- 🤝 Eager to collaborate on exciting projects and contribute 
-- 💼 Actively seeking internships and entry-level opportunities in software engineering
+- 🤖 Passionate about AI/ML and exploring innovative applications in the field
+- 🎨 Enthusiast in 3D design, constantly pushing creative boundaries
+- 🌱 Continuously learning and expanding my skillset in AI, machine learning, and 3D design
+- 🤝 Eager to collaborate on exciting projects and contribute to cutting-edge technology
+
 
 ## 🛠️ Skills & Technologies
 
