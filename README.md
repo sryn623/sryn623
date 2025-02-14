@@ -31,13 +31,13 @@ Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal,
 
 ## 🚀 What I'm Currently Learning
 
-- Advanced Godot Engine techniques and best practices
-- GDScript optimization for better game performance
-- 2D and 3D game development workflows in Godot
-- Shader programming in Godot for stunning visual effects
-- Game design principles and level design
-- Version control with Git for game development
-- 3D modeling and animation with Blender for game assets
+- Advanced machine learning techniques and best practices
+- Model optimization for better performance in AI applications
+- 3D design workflows for creating realistic and immersive visuals
+- Generative AI for creating unique 3D assets and environments
+- Data preprocessing and feature engineering in AI projects
+- Version control with Git for collaborative AI/ML projects
+- 3D modeling, texturing, and animation with Blender for creative projects
 
 ## 💡 Project Ideas & Interests
 
