@@ -80,7 +80,7 @@ Feel free to reach out for collaborations, mentorship, or just a friendly chat a
 </p>
 
 <p align="center">
-  <i>"In the world of game development, every line of code is a step towards bringing imagination to life." - Unknown</i>
+  <i>"Imagination is the only limit" -Unknown </i>
 </p>
 
 
