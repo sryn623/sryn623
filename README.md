@@ -61,13 +61,13 @@ I'm always open to new ideas and would love to collaborate on AI/ML and 3D desig
 
 ## 🤝 Let's Connect and Create!
 
-I'm at the beginning of my journey in game development with Godot, and I'm excited to learn, grow, and contribute. Whether you're a fellow Godot enthusiast, an experienced game developer, or someone with a cool game idea, I'd love to connect!
+I'm at the beginning of my journey in AI/ML and 3D design, and I'm excited to learn, grow, and contribute. Whether you're passionate about AI, a 3D design expert, or someone with an innovative project idea, I'd love to connect!
 
-- 💼 Seeking internships and entry-level opportunities in game development
-- 🤝 Eager to collaborate on open-source Godot projects or game jams
-- 📚 Always ready to learn from and connect with experienced Godot developers
-
-Feel free to reach out for collaborations, mentorship, or just a friendly chat about Godot and game development!
+- 💼 Seeking internships and entry-level opportunities in AI/ML and 3D design
+- 🤝 Eager to collaborate on open-source AI projects, design collaborations, or creative challenges
+- 📚 Always ready to learn from and connect with experienced professionals in AI and 3D design
+  
+Feel free to reach out for collaborations, mentorship, or just a friendly chat about AI, machine learning, and 3D design!
 
 <p align="center">
   <a href="shreyanwasti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
