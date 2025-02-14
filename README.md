@@ -41,14 +41,14 @@ Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal,
 
 ## 💡 Project Ideas & Interests
 
-While I haven't completed any major projects yet, I'm bursting with ideas and eager to bring them to life using Godot Engine! Here are some areas I'm particularly excited about:
+While I haven't completed any major projects yet, I'm bursting with ideas and eager to bring them to life using AI, machine learning, and 3D design! Here are some areas I'm particularly excited about:
 
-1. **2D Platformer Game**: Developing a game that incorporates Nepali folklore and mythology using Godot's 2D engine.
-2. **3D Adventure Game**: Creating an immersive 3D world with Godot's 3D capabilities.
-3. **Educational Game**: Designing an interactive game to teach programming concepts to beginners, leveraging Godot's user-friendly interface.
-4. **Mobile Puzzle Game**: Building a challenging puzzle game for mobile platforms using Godot's cross-platform export feature.
+AI for Personalized Learning: Building an AI-driven platform to customize educational content based on individual learning styles.
+3D Visualization for Data: Creating interactive 3D models to represent complex data sets for better understanding and decision-making.
+Generative AI for Art and Design: Experimenting with AI to generate unique 3D assets and artworks.
+Virtual Environments: Designing immersive 3D environments for simulations and training purposes.
+I'm always open to new ideas and would love to collaborate on AI/ML and 3D design projects or explore entirely new concepts!
 
-I'm always open to new ideas and would love to collaborate on Godot projects in these areas or explore entirely new concepts!
 
 ## 📊 GitHub Stats
 
