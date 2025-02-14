@@ -54,9 +54,7 @@ I'm always open to new ideas and would love to collaborate on Godot projects in 
   <img src="https://github-readme-stats.vercel.app/api?username=sryn623&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sryn623&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 ## 🤝 Let's Connect and Create!
 
@@ -69,13 +67,13 @@ I'm at the beginning of my journey in game development with Godot, and I'm excit
 Feel free to reach out for collaborations, mentorship, or just a friendly chat about Godot and game development!
 
 <p align="center">
-  <a href="sarbeshkcc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="shreyanwasti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarbeshkc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=sryn623&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
 <p align="center">
@@ -83,12 +81,4 @@ Feel free to reach out for collaborations, mentorship, or just a friendly chat a
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sryn623&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sryn623&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sryn623&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sryn623&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
