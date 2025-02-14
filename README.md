@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Shreyan Wasti | Shaping the Future with AI, Machine Learning, and 3D Design  🖥️</h1>
+<h1 align="center">🎮 Shreyan Wasti | AI/ML Enthusiast | 3D Design Explorer  🖥️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Game+Developer;Exploring+AI+And+Machine+Learning;Ready+for+New+Challenges&center=true&width=380&height=45">
