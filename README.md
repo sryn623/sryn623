@@ -68,7 +68,6 @@ I'm at the beginning of my journey in AI/ML and 3D design, and I'm excited to le
 - 📚 Always ready to learn from and connect with experienced professionals in AI and 3D design
   
 Feel free to reach out for collaborations, mentorship, or just a friendly chat about AI, machine learning, and 3D design!
-
 <p align="center">
   <a href="shreyanwasti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -76,12 +75,15 @@ Feel free to reach out for collaborations, mentorship, or just a friendly chat a
 ---
 
 <p align="center">
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanwasti@gmail.com) 
+  <img src="https://komarev.com/ghpvc/?username=sryn623&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
+
+
 
 <p align="center">
   <i>"Imagination is the only limit" -Unknown </i>
 </p>
 
+ 
 
 
