@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in game development using Godot Engine and system engineering. I'm enthusiastic about creating innovative games and optimizing software systems.
+Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in AI/ML and 3D design. I’m enthusiastic about exploring artificial intelligence and pushing the boundaries of 3D creativity.
 
 - 🎓 Currently pursuing a degree in Computer Science
 - 🎮 Aspiring game developer focused on Godot Engine and GDScript
