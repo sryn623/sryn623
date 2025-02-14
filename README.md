@@ -76,7 +76,7 @@ Feel free to reach out for collaborations, mentorship, or just a friendly chat a
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sryn623&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanwasti@gmail.com) 
 </p>
 
 <p align="center">
