@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Shreyan Wasti | AI/ML Enthusiast | 3D Design Explorer  🖥️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Game+Developer;Exploring+AI+And+Machine+Learning;Ready+for+New+Challenges&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+ML+Enthusiast+|+3D+Design+Explorer;Exploring+AI+And+Machine+Learning;Ready+for+New+Challenges&center=true&width=380&height=45">
 </p>
 
 <p align="center">
