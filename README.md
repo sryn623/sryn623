@@ -48,7 +48,7 @@ While I haven't completed any major projects yet, I'm bursting with ideas and ea
 3. Generative AI for Art and Design: Experimenting with AI to generate unique 3D assets and artworks.
 4. Virtual Environments: Designing immersive 3D environments for simulations and training purposes.
 
-I'm always open to new ideas and would love to collaborate on AI/ML and 3D design projects or explore entirely new concepts!
+I'm always open to new ideas and would love to collaborate on AI/ML and 3D design projects or explore entirely new concepts.
 
 
 ## 📊 GitHub Stats
