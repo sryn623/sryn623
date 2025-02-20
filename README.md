@@ -67,7 +67,7 @@ I'm at the beginning of my journey in AI/ML and 3D design, and I'm excited to le
 - 🤝 Eager to collaborate on open-source AI projects, design collaborations, or creative challenges
 - 📚 Always ready to learn from and connect with experienced professionals in AI and 3D design
   
-Feel free to reach out for collaborations, mentorship, or just a friendly chat about AI, machine learning, and 3D design
+Feel free to reach out for collaborations, mentorship, or just a friendly chat about AI, machine learning, and 3D design.
 <p align="center">
   <a href="shreyanwasti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
