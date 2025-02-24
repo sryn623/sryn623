@@ -43,10 +43,10 @@ Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal,
 
 While I haven't completed any major projects yet, I'm bursting with ideas and eager to bring them to life using AI, machine learning, and 3D design! Here are some areas I'm particularly excited about:
 
-1. AI for Personalized Learning: Building an AI-driven platform to customize educational content based on individual learning styles.
-2. 3D Visualization for Data: Creating interactive 3D models to represent complex data sets for better understanding and decision-making.
-3. Generative AI for Art and Design: Experimenting with AI to generate unique 3D assets and artworks.
-4. Virtual Environments: Designing immersive 3D environments for simulations and training purposes.
+1. AI for Personalized Learning: Building an AI-driven platform to customize educational content based on individual learning styles
+2. 3D Visualization for Data: Creating interactive 3D models to represent complex data sets for better understanding and decision-making
+3. Generative AI for Art and Design: Experimenting with AI to generate unique 3D assets and artworks
+4. Virtual Environments: Designing immersive 3D environments for simulations and training purposes
 
 I'm always open to new ideas and would love to collaborate on AI/ML and 3D design projects or explore entirely new concepts.
 
@@ -63,9 +63,9 @@ I'm always open to new ideas and would love to collaborate on AI/ML and 3D desig
 
 I'm at the beginning of my journey in AI/ML and 3D design, and I'm excited to learn, grow, and contribute. Whether you're passionate about AI, a 3D design expert, or someone with an innovative project idea, I'd love to connect!
 
-- 💼 Seeking internships and entry-level opportunities in AI/ML and 3D design
-- 🤝 Eager to collaborate on open-source AI projects, design collaborations, or creative challenges
-- 📚 Always ready to learn from and connect with experienced professionals in AI and 3D design
+- 💼 Seeking internships and entry-level opportunities in AI/ML and 3D design.
+- 🤝 Eager to collaborate on open-source AI projects, design collaborations, or creative challenges.
+- 📚 Always ready to learn from and connect with experienced professionals in AI and 3D design.
   
 Feel free to reach out for collaborations, mentorship, or just a friendly chat about AI, machine learning, and 3D design.
 <p align="center">
