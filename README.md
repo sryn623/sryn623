@@ -14,9 +14,9 @@
 ## 👨‍💻 About Me
 
 Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in AI/ML and 3D design. I’m enthusiastic about exploring artificial intelligence and pushing the boundaries of 3D creativity.
-- 🎓 Currently pursuing a degree in Computer Science
-- 🤖 Passionate about AI/ML and exploring innovative applications in the field
-- 🎨 Enthusiast in 3D design, constantly pushing creative boundaries
+- 🎓 Currently pursuing a degree in Computer Science.
+- 🤖 Passionate about AI/ML and exploring innovative applications in the field.
+- 🎨 Enthusiast in 3D design, constantly pushing creative boundaries.
 - 🌱 Continuously learning and expanding my skillset in AI, machine learning, and 3D design.
 - 🤝 Eager to collaborate on exciting projects and contribute to cutting-edge technology.
 
@@ -30,13 +30,13 @@ Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal,
 
 ## 🚀 What I'm Currently Learning
 
-- Advanced machine learning techniques and best practices
-- Model optimization for better performance in AI applications
-- 3D design workflows for creating realistic and immersive visuals
-- Generative AI for creating unique 3D assets and environments
-- Data preprocessing and feature engineering in AI projects
-- Version control with Git for collaborative AI/ML projects
-- 3D modeling, texturing, and animation with Blender for creative projects
+- Advanced machine learning techniques and best practices.
+- Model optimization for better performance in AI applications.
+- 3D design workflows for creating realistic and immersive visuals.
+- Generative AI for creating unique 3D assets and environments.
+- Data preprocessing and feature engineering in AI projects.
+- Version control with Git for collaborative AI/ML projects.
+- 3D modeling, texturing, and animation with Blender for creative projects.
 
 ## 💡 Project Ideas & Interests
 
